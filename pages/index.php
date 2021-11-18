@@ -135,7 +135,7 @@
         </form>
     </section>
     <footer>
-        <p>Todos Los derechos Reservados. Valentina Barrera Medina</p>
+        <p>Todos Los derechos  Valentina Barrera Medina</p>
     </footer>    
     </div>
 </body>
